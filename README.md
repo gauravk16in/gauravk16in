@@ -2,13 +2,14 @@
 
 ###
 
-<img align="right" height="183" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amhpZTFwNnViMzNjeTY5ZDM2Z3hodGd5eTVudzBmejJ2MGJvamE3MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amhpZTFwNnViMzNjeTY5ZDM2Z3hodGd5eTVudzBmejJ2MGJvamE3MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravk16in&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gauravk16in&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -58,5 +59,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravk16in/gauravk16in/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gauravk16in/gauravk16in/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk16in&radius=16&theme=synthwave-84&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
