@@ -1,10 +1,28 @@
-<h3 align="left">Getting things ready for you...</h3>
+<h1 align="left">Hi is  <3</h1>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amhpZTFwNnViMzNjeTY5ZDM2Z3hodGd5eTVudzBmejJ2MGJvamE3MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif"  />
+<div align="right">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRtNWhlcXE5NHpydHdjY2MweGhxcWVvbWYyaGM1bGJvOTdkZzVjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5JwGXr0ZuSdTv3W439/giphy.gif"  />
 </div>
+
+###
+
+<div align="right">
+  <a href="https://discord.com/users/1285860421773037642" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="24" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/tendsxgaurav" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="36" height="24" alt="ko-fi logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="36" height="24" alt="hackerrank logo"  />
+</div>
+
+###
+
+<p align="left">I am Gaurav, Nice to meet you!</p>
 
 ###
 
@@ -40,16 +58,8 @@
 
 ###
 
-<div align="right">
-  <a href="https://discord.com/users/1285860421773037642" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="24" alt="twitter logo"  />
-  <a href="https://linkedin.com/in/tendsxgaurav" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="36" height="24" alt="ko-fi logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="36" height="24" alt="hackerrank logo"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk16in&radius=16&theme=synthwave-84&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -59,11 +69,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravk16in/gauravk16in/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gauravk16in/gauravk16in/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk16in&radius=16&theme=synthwave-84&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
