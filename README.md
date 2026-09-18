@@ -79,7 +79,7 @@ code.
 
 ### my creative works
 
-- Design and Developed Spider-Man Brand New Day's Galaxy Watch Face.
+- Design and Developed Spider-Man Brand New Day's Galaxy Watch Face. <img src="NedsPixelBlink-frames.png">
 - Made Campus Genie to make colleges smart with Databricks an came runner up position.
 - Made Conciergent for razorpay buildathon.
 - Part of Indian Developer Community
@@ -87,7 +87,7 @@ code.
 - Been a Perplexity Campus Partner
 - Came runner up in Educative's 30 days of DSA Challange.
 
-- ### what next (Ongoing)
+### what next 
 - Build strong foundation in Data Structure & Algorithm
 - Improve Communication
 - Enhance Problem Solving Skill & Speed
