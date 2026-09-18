@@ -29,9 +29,9 @@ next time.
 <samp>
 
 yes, I yummm a computer-science student.<br>
-and my every contribution as a CS student is<br>
-live on GitHub and what I do and how I do is<br>
-live on my portfolio.
+and I update my project on github and<br>
+more important<br>
+how I do on my portfolio.
 
 </samp>
 
@@ -76,6 +76,24 @@ code.
 </table>
 
 <br><br>
+
+# few samll creative works
+
+- Design and Developed Spider-Man Brand New Day's Galaxy Watch Face.
+- Made Campus Genie to make colleges smart with Databricks an came runner up position.
+- Made Conciergent for razorpay buildathon.
+- Part of Indian Developer Community
+- Inter at Voix Nova, Bangalore as LLM Engineering Intern (Developed LLM for E-commerce Voice Plugin -from scratch, ongoing)
+- Been a Perplexity Campus Partner
+- Came runner up in Educative's 30 days of DSA Challange.
+
+- # what next (Ongoing)
+- Build strong foundation in Data Structure & Algorithm
+- Improve Communication
+- Enhance Problem Solving Skill & Speed
+- Skate Better.
+
+<div align="center">
 
 <samp>
   <p>
