@@ -1,34 +1,11 @@
-<h1 align="left">Hi is  <3</h1>
+<p align="center">
+  <img src="https://gauravk16in-profile.aiethic-chat-api.workers.dev/profile.svg" width="400" alt="Gaurav Kumar — current work, selected projects, recent notes, interests, and a hand-drawn snowboarder" />
+</p>
 
-###
+<p align="center">
+  <a href="https://gauravk.space">portfolio</a> &nbsp;·&nbsp; <a href="https://github.com/gauravk16in/receipts">receipts</a> &nbsp;·&nbsp; <a href="https://github.com/foss42/apidash/blob/main/doc/proposals/2026/gsoc/application_GauravKumar_MCP-Testing.md">MCP Dash proposal</a> &nbsp;·&nbsp; <a href="https://findtogether.vercel.app">FindTogether</a>
+</p>
 
-<div align="right">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwxMXZqYng3cDk3eGZnOHZ2YjZldjh0YXI3OGhlODFseXNvdmVrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Fz7skz5i5fz4dcBW5/giphy.gif"  />
-</div>
-
-###
-
-<div align="right">
-  <a href="https://discord.com/users/1285860421773037642" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="24" alt="twitter logo"  />
-  <a href="https://linkedin.com/in/tendsxgaurav" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="36" height="24" alt="ko-fi logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="36" height="24" alt="hackerrank logo"  />
-</div>
-
-###
-
-<p align="left">I am Gaurav, Nice to meet you!</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
@@ -54,12 +31,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="43" alt="figma logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=aws" height="43" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk16in&radius=16&theme=synthwave-84&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
