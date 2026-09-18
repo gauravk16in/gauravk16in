@@ -77,7 +77,7 @@ code.
 
 <br><br>
 
-# few samll creative works
+### my creative works
 
 - Design and Developed Spider-Man Brand New Day's Galaxy Watch Face.
 - Made Campus Genie to make colleges smart with Databricks an came runner up position.
@@ -87,7 +87,7 @@ code.
 - Been a Perplexity Campus Partner
 - Came runner up in Educative's 30 days of DSA Challange.
 
-- # what next (Ongoing)
+- ### what next (Ongoing)
 - Build strong foundation in Data Structure & Algorithm
 - Improve Communication
 - Enhance Problem Solving Skill & Speed
