@@ -1,37 +1,83 @@
-<p align="center">
-  <img src="https://gauravk16in-profile.aiethic-chat-api.workers.dev/profile.svg" width="400" alt="Gaurav Kumar — current work, selected projects, recent notes, interests, and a hand-drawn snowboarder" />
-</p>
+<h1>
+  Hello , 👋 I’m gaurav 😁
+</h1>
 
-<p align="center">
-  <a href="https://gauravk.space">portfolio</a> &nbsp;·&nbsp; <a href="https://github.com/gauravk16in/receipts">receipts</a> &nbsp;·&nbsp; <a href="https://github.com/foss42/apidash/blob/main/doc/proposals/2026/gsoc/application_GauravKumar_MCP-Testing.md">MCP Dash proposal</a> &nbsp;·&nbsp; <a href="https://findtogether.vercel.app">FindTogether</a>
-</p>
+<br>
 
+<img
+  src="skater.png"
+  width="52%"
+  alt="snowboarder illustration"
+/>
 
-###
+<br><br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="43" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="43" alt="tailwindcss logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="43" alt="supabase logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=dart" height="43" alt="dart logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=figma" height="43" alt="figma logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=aws" height="43" alt="amazonwebservices logo"  />
+<div align="right">
+
+<samp>
+
+if you <i>read</i> my <b>profile</b>,<br>
+you'll know how to <i>read</i> better<br>
+next time.
+
+</samp>
+
 </div>
+
+<br><br><br>
+
+<samp>
+
+yes, I yummm a computer-science student.<br>
+and my every contribution as a CS student is<br>
+live on GitHub and what I do and how I do is<br>
+live on my portfolio.
+
+</samp>
+
+<br><br><br><br>
+
+<table>
+<tr>
+
+<td valign="middle">
+
+<samp>
+I love to<br><br>
+I love to<br><br>
+I love to<br><br>
+I love to
+</samp>
+
+</td>
+
+<td align="center" valign="middle">
+
+<img
+  src="lappy.gif"
+  width="320"
+  alt="animated laptop"
+/>
+
+</td>
+
+<td valign="middle">
+
+<samp>
+skate.<br><br>
+skate.<br><br>
+skate.<br><br>
+code.
+</samp>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<samp>Tech Stack Icons.</samp>
 
 ###
 
