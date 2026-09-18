@@ -79,7 +79,7 @@ code.
 
 ### my creative works
 
-- Design and Developed Spider-Man Brand New Day's Galaxy Watch Face. <img src="NedsPixelBlink-frames.png">
+- Design and Developed Spider-Man Brand New Day's Galaxy Watch Face. <img src="NedsPixelBlink-frames.png" width="32%" height="64%">
 - Made Campus Genie to make colleges smart with Databricks an came runner up position.
 - Made Conciergent for razorpay buildathon.
 - Part of Indian Developer Community
